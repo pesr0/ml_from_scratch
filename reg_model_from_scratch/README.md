@@ -9,7 +9,7 @@ Hence,  with these 2 paremters, it is posible to determine a line function.
 
 <br>
 
-<img src="https://lh3.google.com/u/0/d/1iFP95-RzbiOX8-NhO7oolh9Vwfundx02=w1236-h958-iv1">
+<img src="readme_images/lineplot.png">
 
 <br>
 
