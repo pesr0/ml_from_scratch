@@ -46,6 +46,6 @@ A image representing the influence of the "learning rate" with number of iterati
 
 <br>
 
-<img src="readme_images/lr_influence.png" style="width: 300px">
+<img src="readme_images/lr_influence.png" style="heigth: 300px">
 
 
