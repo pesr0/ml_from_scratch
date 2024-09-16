@@ -8,7 +8,7 @@ First of all, KNN models has its cores on calculation the distance between point
 
 <br>
 
-<img src="knn_images/distance_plot.png">
+<img src="knn_images/distance_plot.png" style="width: 300px">
 
 <br>
 
@@ -16,7 +16,7 @@ The distance "d" in the image represents the Euclidean Distance between p1 and p
 
 <br>
 
-<img src="knn_images/equation.png">
+<img src="knn_images/equation.png" style="width: 300px">
 
 <br>
 
@@ -24,7 +24,7 @@ Then, what KNN model does, is simply calculate the euclidean distance between a 
 
 <br>
 
-<img src="knn_images/comparation.png">
+<img src="knn_images/comparation.png" style="width: 300px">
 
 <br>
 
