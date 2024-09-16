@@ -9,5 +9,4 @@ Since the implementation is focused in the mathematical logic, the implementatio
 For now, the available implementations are:
 <br>
 <a href="https://github.com/pesr0/ml_from_scratch/tree/main/reg_model_from_scratch">-Linear Regression Model</a>
-
-
+<a href="https://github.com/pesr0/ml_from_scratch/tree/main/knn_model_from_scratch">-KNN Model</a>
