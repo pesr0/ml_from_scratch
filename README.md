@@ -12,4 +12,4 @@ For now, the available implementations are:
 <br>
 <a href="https://github.com/pesr0/ml_from_scratch/tree/main/knn_model_from_scratch">-KNN Model</a>
 <br>
-<a href="https://github.com/pesr0/ml_from_scratch/tree/main/kmeans_clust_from_scratch">-KNN Model</a>
+<a href="https://github.com/pesr0/ml_from_scratch/tree/main/kmeans_clust_from_scratch">-K-Means Clusterization Model</a>
