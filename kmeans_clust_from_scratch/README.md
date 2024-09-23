@@ -8,7 +8,7 @@ Kmeans Clust is a ML model intended for segragating data into groups (clusters) 
 
 <br>
 
-<img src="kmeans_images/raw_plot.png" style="width: 300px">
+<img src="readme_images/raw_plot.png" style="width: 300px">
 
 <br>
 
@@ -16,7 +16,7 @@ For that task, initially, n (number of clusters) random points are select and in
 
 <br>
 
-<img src="kmeans_images/random_centroids.png" style="width: 300px">
+<img src="readme_images/random_centroids.png" style="width: 300px">
 
 <br>
 
@@ -24,7 +24,7 @@ Then, some clusters are created based on the distance from the data points to th
 
 <br>
 
-<img src="kmeans_images/clusterization.png" style="height: 300px">
+<img src="readme_images/clusterization.png" style="height: 300px">
 
 <br>
 
@@ -32,7 +32,7 @@ Afther that, the mean point of that cluster if calculated and a new centroid for
 
 <br>
 
-<img src="kmeans_images/centroids_update.png" style="height: 300px">
+<img src="readme_images/centroids_update.png" style="height: 300px">
 
 <br>
 
@@ -40,7 +40,7 @@ Now, new clusters are defined based od the distance from the points to these new
 
 <br>
 
-<img src="kmeans_images/cluster_updates.png" style="height: 300px">
+<img src="readme_images/cluster_updates.png" style="height: 300px">
 
 <br>
 
@@ -52,5 +52,5 @@ At the end, we have separated data points into groups (clusters)
 
 <br>
 
-<img src="kmeans_images/final_clusters.png" style="height: 300px">
+<img src="readme_images/final_clusters.png" style="height: 300px">
 
